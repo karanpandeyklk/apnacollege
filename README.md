@@ -1,4 +1,4 @@
 # apnacollege
 This is  my first git repository
 <br>
-Author=>karanpandey
+Author=>rajpandey
